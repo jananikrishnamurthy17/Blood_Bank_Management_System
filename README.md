@@ -20,17 +20,21 @@ Cool Things: Web scraping techniques were implemented to efficiently extract dat
 
 Ensure that you have the following installed in your system.
 
-Python 3.x
-Tkinter, pillow, tkcalendar library
-MySQL Connector for Python
-Access to Tableau Public (for embedded visualizations)
+1. Python 3.x
+2. Tkinter, pillow, tkcalendar library
+3. MySQL Connector for Python
+4. Access to Tableau Public (for embedded visualizations)
 
 # Running the application
 
 Clone the repository to your local machine using `git clone [https://github.com/jananikrishnamurthy17/Blood-Bank-Management-System.git](https://github.com/jananikrishnamurthy17/Blood_Bank_Management_System.git)'
+
 Navigate to the cloned directory and install the required dependencies by running pip install -r requirements.txt in your terminal.
+
 Run the code cell in MILESTONE3code.ipynb and wait for the app to start.
+
 Make sure you have splash_image.jpg file in your project directory.
+
 If you’re using localhost, create the database using the MILESTONE3DUMP.sql
 
 # Navigate the UI:
